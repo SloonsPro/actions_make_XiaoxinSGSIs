@@ -4,7 +4,7 @@
   "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
   "rom_url": "https://ip197508572.out.azhimalayanvh.com/Firmware/Flyme/meizu17/8.2.0.1/cn/20210422104521/f965bcad/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=9155ca5c7373ba8d92e2da973564df48b921a6b2e7e92f10&ali_redirect_ex_tmining_ts=1624701849&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100",
   "rom_name": "update.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.zip",
+  "pack_sgsi": "FlymeSGSI.zip",
   "make_miui": false,
   "make_flyme": true,
   "make_coloros": false,
